@@ -1,0 +1,15 @@
+RUDRA EDITS — InfinityFree Upload Package (rudraedits.infinityfree.io)
+=======================================================================
+
+1. Extract ALL files and folders inside this ZIP archive.
+2. Open InfinityFree -> File Manager (or FTP) -> open the "htdocs" folder
+   for rudraedits.infinityfree.io.
+3. Delete any default placeholder files (like index2.html) inside htdocs/.
+4. Upload all extracted contents (index.html, .htaccess, robots.txt, assets/, src/)
+   directly into htdocs/ so index.html is at htdocs/index.html.
+5. In InfinityFree -> Free SSL Certificates, activate SSL for rudraedits.infinityfree.io.
+6. In Firebase Console -> Authentication -> Settings -> Authorized domains,
+   add "rudraedits.infinityfree.io" if you use Google Sign-In on that domain.
+7. In AI Studio, click Share -> Public so API & WebSocket sync at
+   https://ais-pre-lmqf25f4p4pqh6zcxnst3y-982800240732.asia-southeast1.run.app
+   stays accessible to all visitors.
